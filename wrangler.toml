@@ -1,0 +1,6 @@
+name = "obsidian-image-inserter-proxy"
+main = "src/index.ts"
+compatibility_date = "2022-11-26"
+
+[vars]
+CLIENT_ID = "your-unsplash-api-client-id"
